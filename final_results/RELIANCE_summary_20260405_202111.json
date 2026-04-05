@@ -1,0 +1,13 @@
+{
+  "ticker": "RELIANCE.NS",
+  "timestamp": "20260405_202111",
+  "data_points": 740,
+  "features": 255,
+  "train_size": 592,
+  "test_size": 148,
+  "total_models": 26,
+  "models_with_positive_r2": 23,
+  "best_model": "Ensemble_Top5",
+  "best_r2": 0.9261153767269306,
+  "best_mae": 10.23914623501619
+}
